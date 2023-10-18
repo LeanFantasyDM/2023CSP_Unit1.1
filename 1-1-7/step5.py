@@ -1,0 +1,4 @@
+#   a117_forloop.py
+new_list = ["dog", "cat", "mouse", "bird", "monkey"]
+for animal in new_list:
+    print(animal)
